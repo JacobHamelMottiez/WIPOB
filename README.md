@@ -6,10 +6,10 @@ Some previous results, notably Gayon (2009), Pradeu (2017) and Malaterre et al. 
 Thus me decided to use a state of the art topic modeling algorithm : BERTopic (Grootendorst, 2022). With it, we were able to attribute a single theme by article, thus making our analysis comparable with the one of Pradeu, himself extending the previous work of Gayon. Moreover, we looked at the four major journals in philosophy of biology : 
 | Journal                                                                 | Articles | References |
 |-------------------------------------------------------------------------|----------|------------|
-| BIOLOGY AND PHILOSOPHY                                                  | 1273     | 63647      |
-| STUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C :STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES | 959      | 57651      |
-| HISTORY AND PHILOSOPHY OF THE LIFE SCIENCES                             | 892      | 35108      |
-| BIOLOGICAL THEORY                                                       | 607      | 34460      |
+| BIOLOGY AND PHILOSOPHY                                                  | 1 273     | 63 647      |
+| STUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C :STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES | 959      | 57 651      |
+| HISTORY AND PHILOSOPHY OF THE LIFE SCIENCES                             | 892      | 35 108      |
+| BIOLOGICAL THEORY                                                       | 607      | 34 460      |
 
 
 ## References
