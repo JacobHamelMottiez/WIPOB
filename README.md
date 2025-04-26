@@ -12,9 +12,20 @@ Thus me decided to use a state of the art topic modeling algorithm : BERTopic (G
 | BIOLOGICAL THEORY                                                       | 607      | 34460      |
 
 
+## References
 
-## References 
-Gayon, J. (2009). Philosophy of Biology: An Historico-Critical Characterization. Dans A. Brenner et J. Gayon (dir.), French Studies In The Philosophy Of Science: Contemporary Research in France (p. 201‑212). Springer Netherlands. https://doi.org/10.1007/978-1-4020-9368-5_9
-Grootendorst, M. (2022, 11 mars). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv. https://doi.org/10.48550/arXiv.2203.05794
-Malaterre, C., Chartier, J.-F. et Pulizzotto, D. (2019). What Is This Thing Called Philosophy of Science? A Computational Topic-Modeling Perspective, 1934–2015. HOPOS: The Journal of the International Society for the History of Philosophy of Science, 9(2), 215‑249. https://doi.org/10.1086/704372
-Pradeu, T. (2017). Thirty years of Biology & Philosophy: philosophy of which biology? Biology & Philosophy, 32(2), 149‑167. https://doi.org/10.1007/s10539-016-9558-7
+1. Gayon, J. (2009). *Philosophy of Biology: An Historico-Critical Characterization*. In A. Brenner & J. Gayon (Eds.), *French Studies in the Philosophy of Science: Contemporary Research in France* (pp. 201-212). Springer Netherlands. [DOI](https://doi.org/10.1007/978-1-4020-9368-5_9)  
+   <cite>https://doi.org/10.1007/978-1-4020-9368-5_9</cite>
+
+2. Gayon, J. (2009). *Philosophy of Biology: An Historico-Critical Characterization*. In A. Brenner & J. Gayon (Eds.), *French Studies in the Philosophy of Science: Contemporary Research in France* (pp. 201-212). Springer Netherlands. [DOI](https://doi.org/10.1007/978-1-4020-9368-5_9)  
+   <cite>https://doi.org/10.1007/978-1-4020-9368-5_9</cite>
+
+3. Grootendorst, M. (2022, March 11). *BERTopic: Neural Topic Modeling with a Class-Based TF-IDF Procedure*. arXiv. [DOI](https://doi.org/10.48550/arXiv.2203.05794)  
+   <cite>https://doi.org/10.48550/arXiv.2203.05794</cite>
+
+4. Malaterre, C., Chartier, J.-F., & Pulizzotto, D. (2019). *What Is This Thing Called Philosophy of Science? A Computational Topic-Modeling Perspective, 1934–2015*. HOPOS: The Journal of the International Society for the History of Philosophy of Science, 9(2), 215-249. [DOI](https://doi.org/10.1086/704372)  
+   <cite>https://doi.org/10.1086/704372</cite>
+
+5. Pradeu, T. (2017). *Thirty Years of Biology & Philosophy: Philosophy of Which Biology?* Biology & Philosophy, 32(2), 149-167. [DOI](https://doi.org/10.1007/s10539-016-9558-7)  
+   <cite>https://doi.org/10.1007/s10539-016-9558-7</cite>
+
