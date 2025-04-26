@@ -11,6 +11,14 @@ Thus me decided to use a state of the art topic modeling algorithm : BERTopic (G
 | HISTORY AND PHILOSOPHY OF THE LIFE SCIENCES                             | 892      | 35 108      |
 | BIOLOGICAL THEORY                                                       | 607      | 34 460      |
 
+## Topic Modeling using BERTopic 
+![]](C:/Users/jacob/OneDrive - Université Laval/biophilo/Visualisation/map_philo_bio_update.png)
+**For the curious mind who would like to test out interactively this map please click** [here](https://jacobhamelmottiez.github.io/WIPOB/BERTopic_philo_of_biology.html)
+
+
+
+If there is anything, please contact me here : [jacob.hamel-mottiez.1\@ulaval.ca](mailto:jacob.hamel-mottiez.1@ulaval.ca){.email}
+
 
 ## References
 1. Gayon, J. (2009). *Philosophy of Biology: An Historico-Critical Characterization*. In A. Brenner & J. Gayon (Eds.), *French Studies in the Philosophy of Science: Contemporary Research in France* (pp. 201-212). Springer Netherlands. [DOI](https://doi.org/10.1007/978-1-4020-9368-5_9)  
