@@ -11,6 +11,10 @@ Thus me decided to use a state of the art topic modeling algorithm : BERTopic (G
 | HISTORY AND PHILOSOPHY OF THE LIFE SCIENCES                             | 892      | 35 108      |
 | BIOLOGICAL THEORY                                                       | 607      | 34 460      |
 
+These journals have not started at the same time and their respective productions have also different patterns. Here is a quick visualisation of those dynamics : 
+![](article_philo_bio.png)
+
+
 ## Topic Modeling using BERTopic 
 ![](map_philo_bio_update.png)
 
