@@ -18,7 +18,9 @@ For the curious mind who would like to test out interactively please click [here
 
 If you want to get a snapshot of some references in a cluster, hold `shift+left-click` and circle the point you want. 
 
-
+## Jupyter Notebook
+If one is curious about how to achieve similar representation, I share here the notebook I used for this project. Sadly, given that the data is proprietary, I cannot share it on this repository. However, for someone who has minimal knowledge of python and notebooks, this should be pretty straight foward. 
+_The notebook will be added soon_
 
 ## References
 1. Gayon, J. (2009). *Philosophy of Biology: An Historico-Critical Characterization*. In A. Brenner & J. Gayon (Eds.), *French Studies in the Philosophy of Science: Contemporary Research in France* (pp. 201-212). Springer Netherlands. [DOI](https://doi.org/10.1007/978-1-4020-9368-5_9)  
