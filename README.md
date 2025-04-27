@@ -12,11 +12,13 @@ Thus me decided to use a state of the art topic modeling algorithm : BERTopic (G
 | BIOLOGICAL THEORY                                                       | 607      | 34 460      |
 
 These journals have not started at the same time and their respective productions have also different patterns. Here is a quick visualisation of those dynamics : 
+
 ![](articles_corpus_philo_bio.png)
 
 
 ## Topic Modeling using BERTopic 
 Here, you will find the resulting map of philosophy of biology using BERTopic. For the various details of my utilisation of the algorithm, please refer to the notebook where everything is described. Also note that there is very good documentation about the algorithm [here](https://maartengr.github.io/BERTopic/api/bertopic.html). The visualisation was achieved using `datamaplot`. For more information, please also consult their [documentation](https://datamapplot.readthedocs.io/en/latest/api_interactive.html)
+
 ![](map_philo_bio_update.png)
 
 For the curious mind who would like to test out interactively please click [here](https://jacobhamelmottiez.github.io/WIPOB/BERTopic_philo_of_biology.html). This can show dynamically citations per article, keywords, journal from where an article was published and more. 
