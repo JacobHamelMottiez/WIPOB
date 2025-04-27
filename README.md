@@ -12,7 +12,7 @@ Thus me decided to use a state of the art topic modeling algorithm : BERTopic (G
 | BIOLOGICAL THEORY                                                       | 607      | 34 460      |
 
 These journals have not started at the same time and their respective productions have also different patterns. Here is a quick visualisation of those dynamics : 
-![](article_corpus_philo_bio.png)
+![](articles_corpus_philo_bio.png)
 
 
 ## Topic Modeling using BERTopic 
