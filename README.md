@@ -3,7 +3,7 @@ This project is called "What is Philosophy of Biology" (WIPOP). Is is part of my
 
 Some previous results, notably Gayon (2009), Pradeu (2017) and Malaterre et al. (2021) looked at the thematic diversity of philosophy of biology through one main journal : _Biology and Philosophy_. Gayon and Pradeu classified manually all the articles. The categories in which they fall have been built iteratively. Malaterre leveraged well-known topic modeling algorithm _Latent Dirichilet Allocation_ (LDA). Howerver, given that Gayon and Pradeu manual annotation attribute a unique theme per article whereas Malaterre with LDA gives the probability to find a topic in a document (which have many of them), the two analysis are hard to compare. 
 
-Thus me decided to use a state of the art topic modeling algorithm : BERTopic (Grootendorst, 2022). With it, we were able to attribute a single theme by article, thus making our analysis comparable with the one of Pradeu, himself extending the previous work of Gayon. Moreover, we looked at the four major journals in philosophy of biology : 
+Thus, we decided to use a state of the art topic modeling algorithm : BERTopic (Grootendorst, 2022). With it, we were able to attribute a single theme by article, thus making our analysis comparable with the one of Pradeu, himself extending the previous work of Gayon. Moreover, we looked at the four major journals in philosophy of biology : 
 | Journal                                                                 | Articles | References |
 |-------------------------------------------------------------------------|----------|------------|
 | BIOLOGY AND PHILOSOPHY                                                  | 1 273     | 63 647      |
