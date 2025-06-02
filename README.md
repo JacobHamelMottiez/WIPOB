@@ -21,7 +21,7 @@ Here, you will find the resulting map of philosophy of biology using BERTopic. F
 
 ![](map_philo_bio_update.png)
 
-For the curious mind who would like to test out interactively please click [here](https://jacobhamelmottiez.github.io/WIPOB/BERTopic_philo_of_biology.html). This can show dynamically citations per article, keywords, journal from where an article was published and more. 
+For the curious mind who would like to test out interactively please click https://jacobhamelmottiez.github.io/WIPOB/BERTopic_philo_of_biology.html . This can show dynamically citations per article, keywords, journal from where an article was published and more. 
 
 
 If you want to get a snapshot of some references in a cluster, hold `shift+left-click` and circle the point you want. 
